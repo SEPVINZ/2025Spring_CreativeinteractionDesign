@@ -25,3 +25,11 @@ button {
     border: none;
     border-radius: 8px;
         }
+
+
+address {
+    margin-top: 30em;
+    padding-top: 2em;
+    border-top: thin dotted
+    color: #c0392b;
+        }
